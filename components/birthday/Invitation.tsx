@@ -422,10 +422,10 @@ export function Invitation({
             </p>
 
             <h2 className="mt-3 font-serif text-[3.1rem] font-light leading-[0.93] tracking-[-0.04em] text-[#5d5046] md:text-[5rem]">
-              It wouldn&apos;t be
+              Thank you for being a part of
               <br />
               <span className="relative inline-block italic text-[#8a9a85]">
-                the same without you.
+                my new chapter.
                 <motion.span
                   initial={{ scaleX: 0 }}
                   whileInView={{ scaleX: 1 }}
