@@ -4,13 +4,13 @@ import "./globals.css";
 
 const serif = Cormorant_Garamond({
   variable: "--font-serif",
-  subsets: ["latin", "vietnamese"],
+  subsets: ["latin", "latin-ext"],
   weight: ["400", "500", "600", "700"],
 });
 
 const sans = DM_Sans({
   variable: "--font-sans",
-  subsets: ["latin", "vietnamese"],
+  subsets: ["latin", "latin-ext"],
 });
 
 export const metadata: Metadata = {
